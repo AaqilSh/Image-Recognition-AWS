@@ -11,4 +11,6 @@ def detect_label():
 
 
 if __name__ == '__main__':
-    detect_label()
+    response = detect_label()
+    for i in response['Labels']:
+        print(f"{i['Name']} with {round(i['Confidence'],2)}% confidence ")
