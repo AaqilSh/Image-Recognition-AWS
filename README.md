@@ -1,21 +1,7 @@
 ﻿# Simple image recognition application with aws backend
 
 ## Overview
-This Flutter-based application leverages the power of AWS Rekognition to provide accurate and efficient image recognition. Whether you're building a photo management app or exploring the capabilities of computer vision, this project serves as a robust foundation.
-
-## Key Features
-
-- **Swift Image Identification:** Utilizes AWS Rekognition's advanced image analysis to swiftly identify objects, scenes, and text within images.
-  
-- **Flutter-Powered User Interface:** The intuitive Flutter interface ensures a seamless user experience, making it easy for users to interact with the image recognition capabilities.
-
-- **AWS Integration:** Seamlessly integrates with AWS Rekognition service, utilizing the scalable and secure cloud infrastructure to handle image analysis tasks.
-
-## Technologies Used
-
-- **Flutter:** A flexible and expressive UI toolkit that enables the creation of natively compiled applications for mobile, web, and desktop from a single codebase.
-
-- **AWS Rekognition:** Leverages Amazon's powerful and comprehensive image and video analysis service for accurate and reliable recognition tasks.
+This Python-based application utilizes the AWS Rekognition service for accurate image recognition. Key features include real-time image analysis, object detection, and facial recognition. Enhance your projects with powerful AWS computer vision capabilities.
 
 ## Getting Started
 
